@@ -40,3 +40,5 @@ def remove_task(self, index):
         del self.tasks[index]
         return True
     return False
+
+# test
